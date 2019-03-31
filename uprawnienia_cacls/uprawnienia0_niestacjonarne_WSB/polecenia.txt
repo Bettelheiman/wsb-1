@@ -1,0 +1,4 @@
+echo y | cacls szef /p szef:r
+
+rd /s /q uprawnienia
+cacls uprawnienia /t /p wszyscy:F & rd /s /q uprawnienia
