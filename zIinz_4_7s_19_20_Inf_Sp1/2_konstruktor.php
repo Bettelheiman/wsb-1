@@ -16,7 +16,8 @@
       $car1->model = 'RS8';
 
       $car1->wyswietl();
-      $car1->wyswietlForeach();
+      $car1->wyswietlForeach
+      ();
      ?>
   </body>
 </html>
