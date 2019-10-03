@@ -1,0 +1,7 @@
+C:\git\podstawy_programowania\PROJEKT_dIinz_1_K26_Inf\1_zajecia\zajecia_1\zajecia_1\obj\Debug\zajecia_1.csprojAssemblyReference.cache
+C:\git\podstawy_programowania\PROJEKT_dIinz_1_K26_Inf\1_zajecia\zajecia_1\zajecia_1\obj\Debug\zajecia_1.csproj.CoreCompileInputs.cache
+C:\git\podstawy_programowania\PROJEKT_dIinz_1_K26_Inf\1_zajecia\zajecia_1\zajecia_1\bin\Debug\zajecia_1.exe.config
+C:\git\podstawy_programowania\PROJEKT_dIinz_1_K26_Inf\1_zajecia\zajecia_1\zajecia_1\bin\Debug\zajecia_1.exe
+C:\git\podstawy_programowania\PROJEKT_dIinz_1_K26_Inf\1_zajecia\zajecia_1\zajecia_1\bin\Debug\zajecia_1.pdb
+C:\git\podstawy_programowania\PROJEKT_dIinz_1_K26_Inf\1_zajecia\zajecia_1\zajecia_1\obj\Debug\zajecia_1.exe
+C:\git\podstawy_programowania\PROJEKT_dIinz_1_K26_Inf\1_zajecia\zajecia_1\zajecia_1\obj\Debug\zajecia_1.pdb
