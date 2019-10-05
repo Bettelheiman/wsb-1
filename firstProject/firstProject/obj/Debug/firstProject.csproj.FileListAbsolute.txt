@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git\firstProject\firstProject\bin\Debug\firstProject.exe.config
+C:\xampp\htdocs\git\firstProject\firstProject\bin\Debug\firstProject.exe
+C:\xampp\htdocs\git\firstProject\firstProject\bin\Debug\firstProject.pdb
+C:\xampp\htdocs\git\firstProject\firstProject\obj\Debug\firstProject.csprojAssemblyReference.cache
+C:\xampp\htdocs\git\firstProject\firstProject\obj\Debug\firstProject.exe
+C:\xampp\htdocs\git\firstProject\firstProject\obj\Debug\firstProject.pdb
