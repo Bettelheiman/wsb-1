@@ -1,0 +1,6 @@
+C:\Users\student\Downloads\wsb-master\wsb-master\podstawy_programowania\zIinz_1_K36.2_Inf\firstProject\bin\Debug\firstProject.exe.config
+C:\Users\student\Downloads\wsb-master\wsb-master\podstawy_programowania\zIinz_1_K36.2_Inf\firstProject\bin\Debug\firstProject.exe
+C:\Users\student\Downloads\wsb-master\wsb-master\podstawy_programowania\zIinz_1_K36.2_Inf\firstProject\bin\Debug\firstProject.pdb
+C:\Users\student\Downloads\wsb-master\wsb-master\podstawy_programowania\zIinz_1_K36.2_Inf\firstProject\obj\Debug\firstProject.csprojAssemblyReference.cache
+C:\Users\student\Downloads\wsb-master\wsb-master\podstawy_programowania\zIinz_1_K36.2_Inf\firstProject\obj\Debug\firstProject.exe
+C:\Users\student\Downloads\wsb-master\wsb-master\podstawy_programowania\zIinz_1_K36.2_Inf\firstProject\obj\Debug\firstProject.pdb
