@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git2\podstawy_programowania\zInz_1_K76.2_Inf\1_first_file\1_first_file\bin\Debug\1_first_file.exe.config
+C:\xampp\htdocs\git2\podstawy_programowania\zInz_1_K76.2_Inf\1_first_file\1_first_file\bin\Debug\1_first_file.exe
+C:\xampp\htdocs\git2\podstawy_programowania\zInz_1_K76.2_Inf\1_first_file\1_first_file\bin\Debug\1_first_file.pdb
+C:\xampp\htdocs\git2\podstawy_programowania\zInz_1_K76.2_Inf\1_first_file\1_first_file\obj\Debug\1_first_file.csprojAssemblyReference.cache
+C:\xampp\htdocs\git2\podstawy_programowania\zInz_1_K76.2_Inf\1_first_file\1_first_file\obj\Debug\1_first_file.exe
+C:\xampp\htdocs\git2\podstawy_programowania\zInz_1_K76.2_Inf\1_first_file\1_first_file\obj\Debug\1_first_file.pdb
