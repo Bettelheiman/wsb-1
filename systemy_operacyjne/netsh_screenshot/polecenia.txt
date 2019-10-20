@@ -1,0 +1,8 @@
+interface ip show config nazwa_karty
+getmac
+getmac /v
+ping wp.pl
+ping /t wp.pl
+ping /t /l 65500 wp.pl
+tracert wp.pl
+tracert -h 50 wp.pl
