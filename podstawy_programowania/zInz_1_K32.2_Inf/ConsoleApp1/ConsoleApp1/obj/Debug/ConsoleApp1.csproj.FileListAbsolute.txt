@@ -1,6 +1,0 @@
-C:\Users\student\Desktop\zInz_1_K32.2_Inf\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\student\Desktop\zInz_1_K32.2_Inf\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\student\Desktop\zInz_1_K32.2_Inf\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\student\Desktop\zInz_1_K32.2_Inf\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
-C:\Users\student\Desktop\zInz_1_K32.2_Inf\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\student\Desktop\zInz_1_K32.2_Inf\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
