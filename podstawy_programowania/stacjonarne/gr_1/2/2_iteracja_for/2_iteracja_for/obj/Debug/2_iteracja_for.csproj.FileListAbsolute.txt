@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\2_iteracja_for\2_iteracja_for\bin\Debug\2_iteracja_for.exe.config
+C:\Users\Student\Desktop\2_iteracja_for\2_iteracja_for\bin\Debug\2_iteracja_for.exe
+C:\Users\Student\Desktop\2_iteracja_for\2_iteracja_for\bin\Debug\2_iteracja_for.pdb
+C:\Users\Student\Desktop\2_iteracja_for\2_iteracja_for\obj\Debug\2_iteracja_for.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\2_iteracja_for\2_iteracja_for\obj\Debug\2_iteracja_for.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\2_iteracja_for\2_iteracja_for\obj\Debug\2_iteracja_for.exe
+C:\Users\Student\Desktop\2_iteracja_for\2_iteracja_for\obj\Debug\2_iteracja_for.pdb
