@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\gr2\wyjatki1\wyjatki1\bin\Debug\wyjatki1.exe.config
+C:\Users\Student\Desktop\gr2\wyjatki1\wyjatki1\bin\Debug\wyjatki1.exe
+C:\Users\Student\Desktop\gr2\wyjatki1\wyjatki1\bin\Debug\wyjatki1.pdb
+C:\Users\Student\Desktop\gr2\wyjatki1\wyjatki1\obj\Debug\wyjatki1.exe
+C:\Users\Student\Desktop\gr2\wyjatki1\wyjatki1\obj\Debug\wyjatki1.pdb

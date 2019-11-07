@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\gr_2\2_iteracje_for\2_iteracje_for\bin\Debug\2_iteracje_for.exe.config
+C:\Users\Student\Desktop\gr_2\2_iteracje_for\2_iteracje_for\bin\Debug\2_iteracje_for.exe
+C:\Users\Student\Desktop\gr_2\2_iteracje_for\2_iteracje_for\bin\Debug\2_iteracje_for.pdb
+C:\Users\Student\Desktop\gr_2\2_iteracje_for\2_iteracje_for\obj\Debug\2_iteracje_for.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\gr_2\2_iteracje_for\2_iteracje_for\obj\Debug\2_iteracje_for.exe
+C:\Users\Student\Desktop\gr_2\2_iteracje_for\2_iteracje_for\obj\Debug\2_iteracje_for.pdb

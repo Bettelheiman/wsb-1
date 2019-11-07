@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\gr_2\2_instrukcje_warunkowe\2_instrukcje_warunkowe\bin\Debug\2_instrukcje_warunkowe.exe.config
+C:\Users\Student\Desktop\gr_2\2_instrukcje_warunkowe\2_instrukcje_warunkowe\bin\Debug\2_instrukcje_warunkowe.exe
+C:\Users\Student\Desktop\gr_2\2_instrukcje_warunkowe\2_instrukcje_warunkowe\bin\Debug\2_instrukcje_warunkowe.pdb
+C:\Users\Student\Desktop\gr_2\2_instrukcje_warunkowe\2_instrukcje_warunkowe\obj\Debug\2_instrukcje_warunkowe.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\gr_2\2_instrukcje_warunkowe\2_instrukcje_warunkowe\obj\Debug\2_instrukcje_warunkowe.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\gr_2\2_instrukcje_warunkowe\2_instrukcje_warunkowe\obj\Debug\2_instrukcje_warunkowe.exe
+C:\Users\Student\Desktop\gr_2\2_instrukcje_warunkowe\2_instrukcje_warunkowe\obj\Debug\2_instrukcje_warunkowe.pdb

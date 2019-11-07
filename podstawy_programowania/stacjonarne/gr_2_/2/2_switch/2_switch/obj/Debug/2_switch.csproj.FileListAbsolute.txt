@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\gr_2\2_switch\2_switch\bin\Debug\2_switch.exe.config
+C:\Users\Student\Desktop\gr_2\2_switch\2_switch\bin\Debug\2_switch.exe
+C:\Users\Student\Desktop\gr_2\2_switch\2_switch\bin\Debug\2_switch.pdb
+C:\Users\Student\Desktop\gr_2\2_switch\2_switch\obj\Debug\2_switch.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\gr_2\2_switch\2_switch\obj\Debug\2_switch.exe
+C:\Users\Student\Desktop\gr_2\2_switch\2_switch\obj\Debug\2_switch.pdb
+C:\Users\Student\Desktop\gr_2\2_switch\2_switch\obj\Debug\2_switch.csprojAssemblyReference.cache

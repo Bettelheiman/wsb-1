@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\gr2\wyjatki3\wyjatki3\bin\Debug\wyjatki3.exe.config
+C:\Users\Student\Desktop\gr2\wyjatki3\wyjatki3\bin\Debug\wyjatki3.exe
+C:\Users\Student\Desktop\gr2\wyjatki3\wyjatki3\bin\Debug\wyjatki3.pdb
+C:\Users\Student\Desktop\gr2\wyjatki3\wyjatki3\obj\Debug\wyjatki3.exe
+C:\Users\Student\Desktop\gr2\wyjatki3\wyjatki3\obj\Debug\wyjatki3.pdb
+C:\Users\Student\Desktop\gr2\wyjatki3\wyjatki3\obj\Debug\wyjatki3.csprojAssemblyReference.cache
