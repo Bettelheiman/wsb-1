@@ -1,3 +1,6 @@
+<?php
+  session_start();
+?>
 <!DOCTYPE html>
 <html lang="pl" dir="ltr">
   <head>
@@ -8,7 +11,14 @@
     <input type="text" name="login" placeholder="Login"><br><br>
     <input type="password" name="pass" placeholder="Hasło"><br><br>
     <input type="submit" name="button" value="Zaloguj się">
-  </form>
+  </form><hr>
+  <?php
+    if (isset($_SESSION['error'])) {
+      echo $_SESSION['error'];
+      unset($_SESSION['error']);
+    }
+   ?>
+
   <body>
 
   </body>
